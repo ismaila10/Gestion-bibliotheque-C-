@@ -1,0 +1,471 @@
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CoreCompileInputs.cache
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignColors.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MigraDoc.DocumentObjectModel-WPF.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MigraDoc.Rendering-WPF.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MigraDoc.RtfRendering-WPF.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\PdfSharp-WPF.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\PdfSharp.Charting-WPF.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.DocumentObjectModel-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.Rendering-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.RtfRendering-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp.Charting-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CopyComplete
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MigraDoc.DocumentObjectModel-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MigraDoc.Rendering-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\MigraDoc.RtfRendering-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\PdfSharp-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\PdfSharp.Charting-WPF.resources.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\bin\Debug\Properties.Resources.Designer.cs.dll
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+E:\C#\GESTION_BIBLIOTHEQUE\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.DocumentObjectModel-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.Rendering-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.RtfRendering-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp.Charting-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CoreCompileInputs.cache
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CopyComplete
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2)\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.DocumentObjectModel-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.Rendering-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.RtfRendering-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp.Charting-WPF.resources.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CoreCompileInputs.cache
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CopyComplete
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.xml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\badzo\Documents\Visual Studio 2017\Projets\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojResolveAssemblyReference.cache
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.xml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.DocumentObjectModel-WPF.resources.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.Rendering-WPF.resources.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.RtfRendering-WPF.resources.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp.Charting-WPF.resources.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.Cache
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.dll
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.xml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.DocumentObjectModel-WPF.resources.dll
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.Rendering-WPF.resources.dll
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\MigraDoc.RtfRendering-WPF.resources.dll
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\de\PdfSharp.Charting-WPF.resources.dll
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.baml
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CoreCompileInputs.cache
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CopyComplete
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.g.cs
+C:\Users\badzo\3D Objects\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.dll
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\Properties.Resources.Designer.cs.dll
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.xml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CoreCompileInputs.cache
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CopyComplete
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.baml
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.g.cs
+C:\Users\badzo\Music\GESTION_BIBLIOTHEQUE - Copie (2) - Copie\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.dll
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.xml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.xml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojResolveAssemblyReference.cache
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.baml
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\ISH-LOLO\Desktop\THE NKD\GESTION_BIBLIOTHEQUE - 2018\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.dll
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.xml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-2\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.config
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.dll
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.xml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.baml
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.exe.manifest
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\bin\Debug\GESTION_BIBLIOTHEQUE.application
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe.manifest
+C:\Users\Administrateur\Desktop\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.application
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb

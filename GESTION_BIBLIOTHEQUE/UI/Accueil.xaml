@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="GESTION_BIBLIOTHEQUE.UI.Accueil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GESTION_BIBLIOTHEQUE.UI"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Height="auto" Width="auto" >
+    <Grid Width="930" Height="625" Margin="0,-20,0,0" Background="#FFE4CB9D" >
+        <DockPanel>
+            <DockPanel.Background>
+                <ImageBrush ImageSource="/GESTION_BIBLIOTHEQUE;component/Images/books-441866_960_720.jpg"/>
+            </DockPanel.Background>
+
+            <Canvas Name="canvas1" Margin="160,-281,122,2" Height="42" ClipToBounds="True" Width="400">
+                <TextBlock Canvas.Left="0" Canvas.Top="0" Height="42" Name="textBlock1" Width="{Binding ElementName=canvas1, Path=ActualWidth}"  FontSize="36" TextWrapping="NoWrap" VerticalAlignment="Center" FontFamily="Elephant" Foreground="#FFEC832B">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1" ScaleY="1"/>
+                            <SkewTransform AngleX="0" AngleY="0"/>
+                            <RotateTransform Angle="0"/>
+                            <TranslateTransform x:Name="rtTTransform1"/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+            </Canvas>
+
+            <Canvas Name="canvas2" Margin="-760,421,122,2" Height="38" ClipToBounds="True" Width="600">
+                <TextBlock Canvas.Left="0" Canvas.Top="0" Height="38" Name="textBlock2" Width="{Binding ElementName=canvas2, Path=ActualWidth}" FontSize="24" TextWrapping="NoWrap" VerticalAlignment="Center" FontFamily="Lucida Calligraphy" FontWeight="Bold">
+                    <TextBlock.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="1" ScaleY="1"/>
+                            <SkewTransform AngleX="0" AngleY="0"/>
+                            <RotateTransform Angle="0"/>
+                            <TranslateTransform x:Name="rtTTransform2"/>
+                        </TransformGroup>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+            </Canvas>
+
+        </DockPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,840 @@
+﻿<UserControl x:Class="GESTION_BIBLIOTHEQUE.UI.Gestion_Pret"
+          xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GESTION_BIBLIOTHEQUE.UI"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Height="auto" Width="auto">
+    <Grid  >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="283*"/>
+            <ColumnDefinition Width="182*"/>
+            <ColumnDefinition Width="465*"/>
+        </Grid.ColumnDefinitions>
+        <materialDesign:TransitioningContent x:Name="TrainsitionigContentSlide" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.8}" Grid.ColumnSpan="3">
+            <TabControl HorizontalAlignment="Left"  Background="#FFC79532" Width="930" Height="625"  Margin="0,-20,0,0" VerticalAlignment="Top"  Grid.ColumnSpan="5" BorderBrush="#FFC79532" Foreground="#FF392B10">
+                <TabControl.Resources>
+                    <Style TargetType="{x:Type TabItem}">
+                        <Setter Property="BorderThickness" Value="5"/>
+                        <Setter Property="Padding" Value="1" />
+                        <Setter Property="HeaderTemplate">
+                            <Setter.Value>
+                                <DataTemplate>
+                                    <Border x:Name="grid" Background="#FFE6C27C">
+
+                                        <ContentPresenter>
+                                            <ContentPresenter.Content>
+                                                <TextBlock Margin="0" FontSize="16" Text="{TemplateBinding Content}"/>
+                                            </ContentPresenter.Content>
+                                        </ContentPresenter>
+                                    </Border>
+                                    <DataTemplate.Triggers>
+                                        <DataTrigger Binding="{Binding RelativeSource={RelativeSource Mode=FindAncestor,AncestorType={x:Type TabItem}},Path=IsSelected}" Value="True">
+                                            <Setter TargetName="grid" Property="Background" Value="white"/>
+                                        </DataTrigger>
+                                    </DataTemplate.Triggers>
+                                </DataTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+
+                </TabControl.Resources>
+                <TabItem Header=" Effectuer Pret " FontFamily="Showcard Gothic" FontSize="14" Foreground="#FF392B10" BorderBrush="#FFC79532">
+                    <TabItem.Background  >
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FFC79532" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+
+                    <Grid Margin="1,1,1,1"  Background="#e4cb9d">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="53*"/>
+                            <ColumnDefinition Width="183*"/>
+                            <ColumnDefinition Width="30*"/>
+                            <ColumnDefinition Width="656*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="123*"/>
+                            <RowDefinition Height="319*"/>
+                        </Grid.RowDefinitions>
+                        <GroupBox Header="Client" HorizontalAlignment="Left" Height="406" Margin="244,32,0,0" VerticalAlignment="Top" Width="374" Background="#FFC79532" BorderBrush="#FF392B10" Grid.Column="3" Grid.RowSpan="2"/>
+
+                        <GroupBox Header="Données du livre" HorizontalAlignment="Left" Height="259" Margin="39,33,0,0" VerticalAlignment="Top" Width="426" Background="#FFC79532" BorderBrush="#FF392B10" Grid.RowSpan="2" Grid.ColumnSpan="4"/>
+                        <TextBox HorizontalAlignment="Left" Height="38" Margin="410,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Foreground="#FF0E0C0C" Background="White" x:Name="prenom_txt" Grid.Row="1" FontFamily="Lucida Fax" FontSize="16" Grid.Column="3" FontWeight="Bold" IsEnabled="False" />
+                        <TextBox HorizontalAlignment="Left" Height="38" Margin="410,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Foreground="Black" Background="White" x:Name="adresse_txt" Grid.Row="1" FontFamily="Lucida Fax" FontSize="16" Grid.Column="3" FontWeight="Bold" IsEnabled="False"/>
+                        <TextBox HorizontalAlignment="Left" Height="38" Margin="410,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Foreground="Black" Background="White" x:Name="nom_txt" FontFamily="Lucida Fax" FontSize="16" Grid.Column="3" Grid.RowSpan="2" FontWeight="Bold" IsEnabled="False" />
+                        <Label Content="Matricule" Margin="285,94,251,27" RenderTransformOrigin="0.89,-0.001" Foreground="#FF392B10" FontFamily="Stencil" FontSize="16" Grid.Column="3"/>
+                        <Label Content="Nom" HorizontalAlignment="Left" Margin="285,160,0,0" VerticalAlignment="Top" FontFamily="Stencil" Foreground="#FF392B10" FontSize="16" Width="58" Height="36" Grid.Column="3" RenderTransformOrigin="1.254,-1.728" Grid.RowSpan="2"/>
+                        <Label Content="Prénom" HorizontalAlignment="Left" Margin="285,68,0,0" VerticalAlignment="Top" FontFamily="Stencil" Foreground="#FF392B10" Grid.Row="1" FontSize="16" Grid.Column="3" RenderTransformOrigin="0.591,2.68"/>
+                        <Label Content="Adresse" HorizontalAlignment="Left" Margin="282,133,0,0" VerticalAlignment="Top" FontFamily="Stencil" Foreground="#FF392B10" Grid.Row="1" FontSize="16" Height="40" Width="78" Grid.Column="3"/>
+                        <GroupBox Header="DETAILS PRET" HorizontalAlignment="Left" Height="208" Margin="43,171,0,0" VerticalAlignment="Top" Width="424" Background="#FFC79532" FontFamily="Showcard Gothic" BorderBrush="#FF392B10" Grid.Row="1" Grid.ColumnSpan="4"/>
+                        <Label Content="Titre" HorizontalAlignment="Left" Margin="6,94,0,0" VerticalAlignment="Top" FontFamily="Stencil" FontSize="16" Foreground="#FF392B10" Grid.Column="1"/>
+                        <Label HorizontalAlignment="Left" Margin="36,86,0,0" VerticalAlignment="Top" Height="106" Grid.RowSpan="2" Grid.Column="3"/>
+                        <Label Content="Quantité disponible" HorizontalAlignment="Left" Margin="6,68,0,0" VerticalAlignment="Top" FontFamily="Stencil" FontSize="16" Foreground="#FF392B10" Height="29" Width="197" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2"/>
+                        <TextBox x:Name="qte_txt"  HorizontalAlignment="Left" Height="38" Margin="18,0,0,325" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="192" Background="White" RenderTransformOrigin="0.401,1.272" Foreground="Black" FontFamily="Lucida Fax" FontSize="14" Grid.Column="2" Grid.Row="1" IsEnabled="False" Grid.ColumnSpan="2" >
+                            <TextBox.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="0.202"/>
+                                    <TranslateTransform X="-0.063" Y="-0.024"/>
+                                </TransformGroup>
+                            </TextBox.RenderTransform>
+                        </TextBox>
+                        <ComboBox x:Name="titre_cbx" Width="192" Height="38" VerticalAlignment="Top" Margin="16,86,478,0" Background="White" FontSize="14" FontFamily="Lucida Fax" SelectionChanged="titre_cbx_SelectionChanged" Grid.Column="2" Grid.ColumnSpan="2" FontWeight="Bold" />
+
+                        <TextBox x:Name="maison_txt"   HorizontalAlignment="Left" Height="38" Margin="16,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="192"  Background="White" Foreground="#FF0A0808" FontFamily="Lucida Fax" FontSize="14" MaxLength="10" TextOptions.TextFormattingMode="Display" Text=" " Grid.Column="2" Grid.ColumnSpan="2" Grid.RowSpan="2" IsEnabled="False"/>
+                        <Label Content="Maison d'édition" HorizontalAlignment="Left" Margin="6,0,0,0" VerticalAlignment="Top" FontFamily="Stencil" FontSize="16" Foreground="#FF392B10" Height="30" Width="150" RenderTransformOrigin="0.747,-0.182" Grid.Row="1" Grid.Column="1"/>
+                        <Button x:Name="s1" Content="Annuler" HorizontalAlignment="Left" Margin="468,0,0,57" Grid.Row="1" VerticalAlignment="Bottom" Width="92" Background="#FFC79532" Click="Annuler_click" Height="42" Grid.Column="3" BorderBrush="#FF392B10" Foreground="#FF392B10" RenderTransformOrigin="-0.909,0.614"/>
+                        <Button x:Name="valider_btn" Content="Valider" HorizontalAlignment="Left" Margin="293,328,0,0" Grid.Row="1" VerticalAlignment="Top" Width="94" Background="#FFC79532" Click="Valider_click" Height="42" Grid.Column="3" BorderBrush="#FF392B10" Foreground="#FF392B10"/>
+                        <TextBox HorizontalAlignment="Left" Height="38" Margin="410,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Foreground="#FF0E0C0C" Background="White" x:Name="mat_txt" FontFamily="Lucida Fax" FontSize="16" Grid.Column="3" MouseLeave="matMouseLeave" FontWeight="Bold" />
+                        <Label Content="Telephone" Margin="282,207,265,0" VerticalAlignment="Top" RenderTransformOrigin="0.89,-0.001" Foreground="#FF392B10" FontFamily="Stencil" FontSize="16" Height="36" Grid.Column="3" Grid.Row="1"/>
+                        <TextBox x:Name="tel_txt" HorizontalAlignment="Left" Height="38" Margin="410,203,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Foreground="Black" Background="White" Grid.Row="1" FontFamily="Lucida Fax" FontSize="16" Grid.Column="3" FontWeight="Bold" IsEnabled="False"/>
+                        <Label Content="Date Debut" Margin="17,246,49,0" VerticalAlignment="Top" RenderTransformOrigin="0.89,-0.001" Foreground="#FF392B10" FontFamily="Stencil" FontSize="16" Height="29" Grid.Column="1" Grid.Row="1"/>
+                        <Label Content="Date fin" Margin="22,303,49,0" VerticalAlignment="Top" RenderTransformOrigin="0.89,-0.001" Foreground="#FF392B10" FontFamily="Stencil" FontSize="16" Height="41" Grid.Column="1" Grid.Row="1"/>
+                        <DatePicker HorizontalAlignment="Left" x:Name="datedebut_dtp" Margin="5,239,0,0" VerticalAlignment="Top" Width="192"  Background="White" Foreground="#FF0A0808" FontFamily="Lucida Fax" FontSize="14"  RenderTransformOrigin="0.561,7.434" Grid.Row="1" Height="38" Grid.Column="2" FontWeight="Bold" Grid.ColumnSpan="2" IsEnabled="False"/>
+                        <DatePicker HorizontalAlignment="Left" x:Name="datefin_dtp" Margin="5,303,0,0" VerticalAlignment="Top" Width="192"  Background="White" Foreground="#FF0A0808" FontFamily="Lucida Fax" FontSize="14"  RenderTransformOrigin="0.561,7.434" Grid.Row="1" Height="38" Grid.Column="2" Grid.ColumnSpan="2"/>
+                        <Label Content="*" HorizontalAlignment="Left" Margin="178,92,0,0" VerticalAlignment="Top" Width="21" FontSize="18" FontWeight="Bold" Grid.Column="3"/>
+                        <Label Content="*" HorizontalAlignment="Left" Margin="169,306,0,0" VerticalAlignment="Top" Width="21" FontSize="18" FontWeight="Bold" Grid.Row="1" Grid.Column="3"/>
+                        <Label Content="*" HorizontalAlignment="Left" Margin="169,242,0,0" VerticalAlignment="Top" Width="21" FontSize="18" FontWeight="Bold" Grid.Row="1" Grid.Column="3"/>
+                        <Label Content="*" HorizontalAlignment="Left" Margin="593,92,0,0" VerticalAlignment="Top" Width="21" FontSize="18" FontWeight="Bold" Grid.Column="3"/>
+                    </Grid>
+                </TabItem>
+
+                <TabItem Header=" Liste des prets " FontFamily="Showcard Gothic" FontSize="14" Foreground="#FF392B10" BorderBrush="#FFC79532">
+                    <TabItem.Background  >
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FFC79532" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+
+                    <Grid Margin="1,1,1,1"  Background="#e4cb9d">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="44*"/>
+                            <ColumnDefinition Width="417*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content=" LISTES DES PRETS " HorizontalAlignment="Left" Margin="253,30,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" FontFamily="Cooper Black" Grid.Column="1"/>
+
+                        <Label Content="Recherche" HorizontalAlignment="Left" Margin="522,78,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+                        <TextBox x:Name="reche_txt" HorizontalAlignment="Left" Height="46" Margin="657,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" TextChanged="reche_txt_TextChanged" Background="White" Grid.Column="1" />
+                        <TextBox x:Name="nombre_txt" HorizontalAlignment="Right" Height="33" Margin="0,77,645,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78" Background="#FFFFFBFB" BorderBrush="#FF392B10" IsEnabled="False" Grid.Column="1"/>
+                        <Label Content="Nombre de prets" HorizontalAlignment="Left" Margin="33,81,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.067,1.704" Width="134" Grid.ColumnSpan="2"/>
+                        <DataGrid x:Name="dataPrets" HorizontalAlignment="Left" MouseLeave="sortdata" HorizontalScrollBarVisibility="Visible"  GridLinesVisibility="All"  CanUserResizeRows="False" Foreground="#FF392B10" BorderBrush="#FF392B10" AutoGenerateColumns="False" RowHeight="35" AlternatingRowBackground="#FFCFA34D" RowBackground="#FFE6C27C" Height="434" Margin="31,125,0,0" VerticalAlignment="Top" Width="859" HorizontalGridLinesBrush="#FF392B10" VerticalGridLinesBrush="#FF392B10" CanUserResizeColumns="False" CanUserReorderColumns="False" CanUserSortColumns="False" IsReadOnly="True" Grid.ColumnSpan="2" >
+                            <DataGrid.CellStyle>
+                                <Style TargetType="{x:Type DataGridCell}">
+                                    <Style.Triggers>
+                                        <Trigger Property="DataGridCell.IsSelected" Value="true">
+                                            <Setter Property="DataGridCell.Background" Value="#FFC79532"/>
+                                            <Setter Property="DataGridCell.Foreground" Value="White"/>
+                                            <Setter Property="DataGridCell.BorderBrush" Value="White"/>
+
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Trigger>
+
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.CellStyle>
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="DataGridColumnHeader">
+                                    <Style.Resources>
+                                        <Style x:Key="ColumnHeaderGripperStyle" TargetType="{x:Type Thumb}">
+                                            <Setter Property="Width" Value="8"/>
+                                            <Setter Property="Background" Value="Transparent"/>
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="{x:Type Thumb}">
+                                                        <Border Background="Red" Padding="{TemplateBinding Padding}" />
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </Style.Resources>
+
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="{x:Type DataGridColumnHeader}">
+                                                <Grid Background="#FFC79532">
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="40"/>
+                                                    </Grid.RowDefinitions>
+                                                    <ContentPresenter Grid.Row="39" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                               SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"  VerticalAlignment="{TemplateBinding VerticalContentAlignment}" OpacityMask="Black"/>
+                                                    <Rectangle Grid.Row="1" Height="39" HorizontalAlignment="Stretch" Stroke="#FF392B10"  />
+                                                </Grid>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+
+                            </DataGrid.ColumnHeaderStyle>
+
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Binding="{Binding Numero}" Header="  Numéro" FontFamily="Lucida Fax" FontSize="14" Width="65" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTextColumn Binding="{Binding Date_Debut,StringFormat={}{0:dd/MM/yyyy}}" Header="     Date début" FontFamily="Lucida Fax" FontSize="14" Width="105" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Date_Fin,StringFormat={}{0:dd/MM/yyyy}}" Header="         Date Fin" FontFamily="Lucida Fax" FontSize="14"   Width="105" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Titre}" Header="                     Titre" FontFamily="Lucida Fax" Width="170" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Niveau_etude}" Header="     Niveau d'étude" FontFamily="Lucida Fax" Width="130" FontSize="14" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Matricule}" Header="   Matricule" FontFamily="Lucida Fax" FontSize="14" Width="90" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Nom}" Header="             Nom" FontFamily="Lucida Fax" FontSize="14" Width="95" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Prenom}" Header="          Prénom" FontFamily="Lucida Fax" Width="98" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                            </DataGrid.Columns>
+
+                        </DataGrid>
+                    </Grid>
+                </TabItem>
+                <TabItem Header=" Préts en cours " FontFamily="Showcard Gothic" FontSize="14" Foreground="#FF392B10" BorderBrush="#FFC79532">
+                    <TabItem.Background  >
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FFC79532" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+
+                    <Grid Margin="1,1,1,1"  Background="#e4cb9d">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="108*"/>
+                            <ColumnDefinition Width="353*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content=" LISTES DES PRETS EN COURS " HorizontalAlignment="Left" Margin="74.762,24,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" FontFamily="Cooper Black" Grid.Column="1"/>
+
+                        <Label Content="Recherche" HorizontalAlignment="Left" Margin="395.762,78,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+                        <TextBox x:Name="reche_encours_txt" HorizontalAlignment="Left" Height="46" Margin="530.762,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" TextChanged="reche_encours_txt_TextChanged" Background="White" Grid.Column="1" />
+                        <Button Content="Rendre" HorizontalAlignment="Left" Margin="183.762,520,0,0" VerticalAlignment="Top" Width="93" Background="#FFC79532" BorderBrush="#FF392B10" Click="Rendre_Click" Grid.Column="1"/>
+                        <TextBox x:Name="idPret_txt" HorizontalAlignment="Left" Height="23" Margin="57,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" Background="#FFF1E7E7"/>
+                        <TextBox x:Name="nombre_encours_txt" HorizontalAlignment="Right" Height="33" Margin="0,75,591,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78" Background="#FFFFFBFB" BorderBrush="#FF392B10" IsEnabled="False" Grid.Column="1"/>
+                        <Label Content="Nombre de prets EN COURS" HorizontalAlignment="Left" Margin="31,81,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.067,1.704" Width="202" Grid.ColumnSpan="2"/>
+                        <DataGrid x:Name="dataPretCours"  Grid.ColumnSpan="2" HorizontalAlignment="Left" HorizontalScrollBarVisibility="Visible"  GridLinesVisibility="All"  CanUserResizeRows="False" Foreground="#FF392B10" BorderBrush="#FF392B10" AutoGenerateColumns="False" RowHeight="35" AlternatingRowBackground="#FFCFA34D" RowBackground="#FFE6C27C" Height="358" Margin="31,125,0,0" VerticalAlignment="Top" Width="859" HorizontalGridLinesBrush="#FF392B10" VerticalGridLinesBrush="#FF392B10" SelectionChanged="dataPretCours_SelectionChanged" CanUserResizeColumns="False" CanUserReorderColumns="False" CanUserSortColumns="False" IsReadOnly="True">
+                            <DataGrid.CellStyle>
+                                <Style TargetType="{x:Type DataGridCell}">
+                                    <Style.Triggers>
+                                        <Trigger Property="DataGridCell.IsSelected" Value="true">
+                                            <Setter Property="DataGridCell.Background" Value="#FFC79532"/>
+                                            <Setter Property="DataGridCell.Foreground" Value="White"/>
+                                            <Setter Property="DataGridCell.BorderBrush" Value="White"/>
+
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Trigger>
+
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.CellStyle>
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="DataGridColumnHeader">
+                                    <Style.Resources>
+                                        <Style x:Key="ColumnHeaderGripperStyle" TargetType="{x:Type Thumb}">
+                                            <Setter Property="Width" Value="8"/>
+                                            <Setter Property="Background" Value="Transparent"/>
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="{x:Type Thumb}">
+                                                        <Border Background="Red" Padding="{TemplateBinding Padding}" />
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </Style.Resources>
+
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="{x:Type DataGridColumnHeader}">
+                                                <Grid Background="#FFC79532">
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="40"/>
+                                                    </Grid.RowDefinitions>
+                                                    <ContentPresenter Grid.Row="39" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                               SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"  VerticalAlignment="{TemplateBinding VerticalContentAlignment}" OpacityMask="Black"/>
+                                                    <Rectangle Grid.Row="1" Height="39" HorizontalAlignment="Stretch" Stroke="#FF392B10"  />
+                                                </Grid>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+
+                            </DataGrid.ColumnHeaderStyle>
+
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Binding="{Binding Numero}" Header="  Numéro" FontFamily="Lucida Fax" FontSize="14" Width="65" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTextColumn Binding="{Binding Date_Debut,StringFormat={}{0:dd/MM/yyyy}}" Header="     Date début" FontFamily="Lucida Fax" FontSize="14" Width="105" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Date_Fin,StringFormat={}{0:dd/MM/yyyy}}" Header="         Date Fin" FontFamily="Lucida Fax" FontSize="14"   Width="105" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Titre}" Header="                     Titre" FontFamily="Lucida Fax" Width="170" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Niveau_etude}" Header="     Niveau d'étude" FontFamily="Lucida Fax" Width="130" FontSize="14" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Matricule}" Header="   Matricule" FontFamily="Lucida Fax" FontSize="14" Width="90" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Nom}" Header="             Nom" FontFamily="Lucida Fax" FontSize="14" Width="95" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Prenom}" Header="          Prénom" FontFamily="Lucida Fax" Width="98" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                            </DataGrid.Columns>
+
+                        </DataGrid>
+                    </Grid>
+                </TabItem>
+                <TabItem Header=" Préts Non Rendus " FontFamily="Showcard Gothic" FontSize="14" Foreground="#FF392B10" BorderBrush="#FFC79532">
+                    <TabItem.Background  >
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FFC79532" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+
+                    <Grid Margin="1,1,1,1"  Background="#e4cb9d">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="214*"/>
+                            <ColumnDefinition Width="247*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content="LISTE DES PRETS NON RENDUS " HorizontalAlignment="Left" Margin="291,24,0,0" VerticalAlignment="Top" FontFamily="Cooper Black" FontWeight="Bold" FontSize="16" Grid.ColumnSpan="2"/>
+
+
+                        <TextBox x:Name="idPretsnonrendu_txt"  HorizontalAlignment="Left" Height="23" Margin="57,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+
+                        <Label Content="Recherche" HorizontalAlignment="Left" Margin="202,83,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+                        <TextBox x:Name="recherche_nonrendu_txt" HorizontalAlignment="Left" Height="34" Margin="325,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" TextChanged="recherche_nonrendu_txt_TextChanged" Background="White" Grid.Column="1"/>
+                        <TextBox x:Name="nombre_nonrendu_txt" HorizontalAlignment="Right" Height="33" Margin="0,81,81,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78" Background="#FFFFFBFB" BorderBrush="#FF392B10" IsEnabled="False"/>
+                        <Label Content="Nombre de prets NON RENDUs" HorizontalAlignment="Left" Margin="35,85,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.067,1.704" Width="218"/>
+                        <DataGrid x:Name="dataPretnonrendu" HorizontalAlignment="Left" HorizontalScrollBarVisibility="Visible" MouseLeave="sortdata"  GridLinesVisibility="All"  CanUserResizeRows="False" Foreground="#FF392B10" BorderBrush="#FF392B10" AutoGenerateColumns="False" RowHeight="35" AlternatingRowBackground="#FFCFA34D" RowBackground="#FFE6C27C" Height="368" Margin="31,133,0,0" VerticalAlignment="Top" Width="859" HorizontalGridLinesBrush="#FF392B10" VerticalGridLinesBrush="#FF392B10"  CanUserResizeColumns="False" CanUserReorderColumns="False" CanUserSortColumns="False" IsReadOnly="True" SelectionChanged="dataPretnonrendu_SelectionChanged" Grid.ColumnSpan="2">
+                            <DataGrid.CellStyle>
+                                <Style TargetType="{x:Type DataGridCell}">
+                                    <Style.Triggers>
+                                        <Trigger Property="DataGridCell.IsSelected" Value="true">
+                                            <Setter Property="DataGridCell.Background" Value="#FFC79532"/>
+                                            <Setter Property="DataGridCell.Foreground" Value="White"/>
+                                            <Setter Property="DataGridCell.BorderBrush" Value="White"/>
+
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Trigger>
+
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.CellStyle>
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="DataGridColumnHeader">
+                                    <Style.Resources>
+                                        <Style x:Key="ColumnHeaderGripperStyle" TargetType="{x:Type Thumb}">
+                                            <Setter Property="Width" Value="8"/>
+                                            <Setter Property="Background" Value="Transparent"/>
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="{x:Type Thumb}">
+                                                        <Border Background="Red" Padding="{TemplateBinding Padding}" />
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </Style.Resources>
+
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="{x:Type DataGridColumnHeader}">
+                                                <Grid Background="#FFC79532">
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="40"/>
+                                                    </Grid.RowDefinitions>
+                                                    <ContentPresenter Grid.Row="39" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                               SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"  VerticalAlignment="{TemplateBinding VerticalContentAlignment}" OpacityMask="Black"/>
+                                                    <Rectangle Grid.Row="1" Height="39" HorizontalAlignment="Stretch" Stroke="#FF392B10"  />
+                                                </Grid>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+
+                            </DataGrid.ColumnHeaderStyle>
+
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Binding="{Binding Numero}" Header="  Numéro" FontFamily="Lucida Fax" FontSize="14" Width="65" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTextColumn Binding="{Binding Date_Debut,StringFormat={}{0:dd/MM/yyyy}}" Header="     Date début" FontFamily="Lucida Fax" FontSize="14" Width="105" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Date_Fin,StringFormat={}{0:dd/MM/yyyy}}" Header="         Date Fin" FontFamily="Lucida Fax" FontSize="14"   Width="105" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Titre}" Header="                     Titre" FontFamily="Lucida Fax" Width="170" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Niveau_etude}" Header="     Niveau d'étude" FontFamily="Lucida Fax" Width="130" FontSize="14" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Matricule}" Header="   Matricule" FontFamily="Lucida Fax" FontSize="14" Width="90" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Nom}" Header="             Nom" FontFamily="Lucida Fax" FontSize="14" Width="95" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Prenom}" Header="          Prénom" FontFamily="Lucida Fax" Width="98" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                            </DataGrid.Columns>
+
+
+                        </DataGrid>
+                        <Button Content="Rendre" HorizontalAlignment="Left" Margin="398,534,0,0" VerticalAlignment="Top" Width="93" Background="#FFC79532" BorderBrush="#FF392B10" Click="Rendre2_Click" Grid.ColumnSpan="2"/>
+
+                    </Grid>
+                </TabItem>
+
+
+                <TabItem Header=" Prets rendus " FontFamily="Showcard Gothic" FontSize="14" Foreground="#FF392B10" BorderBrush="#FFC79532">
+                    <TabItem.Background  >
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FFC79532" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+
+                    <Grid Margin="1,1,1,1"  Background="#e4cb9d">
+                        <Label Content="LISTES DES PRETS RENDUS" HorizontalAlignment="Left" Margin="278,22,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Cooper Black" FontSize="16"/>
+                        <Label Content="Rechercher par numéro" HorizontalAlignment="Left" Margin="539,79,0,0" VerticalAlignment="Top"/>
+                        <TextBox x:Name="rech_rendu_txt" HorizontalAlignment="Left" Height="39" Margin="769,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" TextChanged="rech_rendu_tx_TextChanged" Background="White" SelectionBrush="#FFB0D700" BorderBrush="#FF392B10"/>
+                        <TextBox x:Name="nombre_rendu_txt" HorizontalAlignment="Right" Height="33" Margin="0,77,609,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="78" Background="#FFFFFBFB" BorderBrush="#FF392B10" IsEnabled="False"/>
+                        <Label Content="Nombre DE PRETS RENDUS" HorizontalAlignment="Left" Margin="21,83,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.067,1.704" Width="194"/>
+                        <DataGrid x:Name="dataPretRendu" HorizontalAlignment="Left" HorizontalScrollBarVisibility="Visible"  GridLinesVisibility="All"  CanUserResizeRows="False" Foreground="#FF392B10" BorderBrush="#FF392B10" AutoGenerateColumns="False" RowHeight="35" AlternatingRowBackground="#FFCFA34D" RowBackground="#FFE6C27C" Height="438" Margin="15,133,0,0" VerticalAlignment="Top" Width="892" HorizontalGridLinesBrush="#FF392B10" VerticalGridLinesBrush="#FF392B10"  CanUserResizeColumns="False" CanUserReorderColumns="False" CanUserSortColumns="False" IsReadOnly="True" MouseLeave="sortdata">
+                            <DataGrid.CellStyle>
+                                <Style TargetType="{x:Type DataGridCell}">
+                                    <Style.Triggers>
+                                        <Trigger Property="DataGridCell.IsSelected" Value="true">
+                                            <Setter Property="DataGridCell.Background" Value="#FFC79532"/>
+                                            <Setter Property="DataGridCell.Foreground" Value="White"/>
+                                            <Setter Property="DataGridCell.BorderBrush" Value="White"/>
+
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Trigger>
+
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.CellStyle>
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="DataGridColumnHeader">
+                                    <Style.Resources>
+                                        <Style x:Key="ColumnHeaderGripperStyle" TargetType="{x:Type Thumb}">
+                                            <Setter Property="Width" Value="8"/>
+                                            <Setter Property="Background" Value="Transparent"/>
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="{x:Type Thumb}">
+                                                        <Border Background="Red" Padding="{TemplateBinding Padding}" />
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </Style.Resources>
+
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="{x:Type DataGridColumnHeader}">
+                                                <Grid Background="#FFC79532">
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="40"/>
+                                                    </Grid.RowDefinitions>
+                                                    <ContentPresenter Grid.Row="39" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                               SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"  VerticalAlignment="{TemplateBinding VerticalContentAlignment}" OpacityMask="Black"/>
+                                                    <Rectangle Grid.Row="1" Height="39" HorizontalAlignment="Stretch" Stroke="#FF392B10"  />
+                                                </Grid>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+
+                            </DataGrid.ColumnHeaderStyle>
+
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Binding="{Binding Numero}" Header="  Numéro" FontFamily="Lucida Fax" FontSize="14" Width="65" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTextColumn Binding="{Binding Date_Debut,StringFormat={}{0:dd/MM/yyyy}}" Header="    Date début" FontFamily="Lucida Fax" FontSize="14" Width="95" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Date_Fin,StringFormat={}{0:dd/MM/yyyy}}" Header="        Date Fin" FontFamily="Lucida Fax" FontSize="14"   Width="95" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Date_Fin,StringFormat={}{0:dd/MM/yyyy}}" Header="  Date Rendue" FontFamily="Lucida Fax" FontSize="14"   Width="95" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Titre}" Header="                     Titre" FontFamily="Lucida Fax" Width="170" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Niveau_etude}" Header="  Niveau d'étude" FontFamily="Lucida Fax" Width="110" FontSize="14" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Matricule}" Header="  Matricule" FontFamily="Lucida Fax" FontSize="14" Width="85" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Nom}" Header="            Nom" FontFamily="Lucida Fax" FontSize="14" Width="90" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Prenom}" Header="       Prénom" FontFamily="Lucida Fax" Width="86" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                            </DataGrid.Columns>
+
+
+                        </DataGrid>
+
+                    </Grid>
+                </TabItem>
+
+
+                <TabItem Header=" RECHERCHE PAR PERIODE " FontFamily="Showcard Gothic" FontSize="14" Foreground="#FF392B10" BorderBrush="#FFC79532">
+                    <TabItem.Background  >
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FFC79532" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+
+                    <Grid Margin="1,1,1,1"  Background="#e4cb9d">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="371*"/>
+                            <ColumnDefinition Width="90*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="recherchedate"  Content="Rechercher" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top" Width="113" Background="#FFC79532" BorderBrush="#FF392B10" Click="recherchedate_Click" Grid.Column="1" />
+                        <Label Content="Date Debut" HorizontalAlignment="Left" Margin="34,91,0,0" VerticalAlignment="Top"/>
+                        <Label Content="RECHERCHE DE PRETS DURANT UNE PERIODE" HorizontalAlignment="Left" Margin="238,24,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Cooper Black" FontSize="16"/>
+                        <Label Content="Nombre de prets" HorizontalAlignment="Left" Margin="71,538,0,0" VerticalAlignment="Top" Width="146"/>
+                        <TextBox  x:Name="nbrepret_txt" HorizontalAlignment="Left" Height="31" Margin="234,538,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" Background="#FFFDFAFA" BorderBrush="#FF392B10" IsEnabled="False"/>
+
+                        <DatePicker x:Name="datedebutp_dtp" HorizontalAlignment="Left" Margin="166,91,0,0" VerticalAlignment="Top" Width="105" Background="White"/>
+                        <DatePicker x:Name="datefinp_dtp" HorizontalAlignment="Left" Margin="468,89,0,0" VerticalAlignment="Top" Width="103" Background="#FFFBFBFB"/>
+                        <Label Content="Date Fin" HorizontalAlignment="Left" Margin="366,89,0,0" VerticalAlignment="Top"/>
+                        <DataGrid x:Name="datastatistique" HorizontalAlignment="Left" HorizontalScrollBarVisibility="Visible"  GridLinesVisibility="All"  CanUserResizeRows="False" Foreground="#FF392B10" BorderBrush="#FF392B10" AutoGenerateColumns="False" RowHeight="35" AlternatingRowBackground="#FFCFA34D" RowBackground="#FFE6C27C" Height="382" Margin="31,135,0,0" VerticalAlignment="Top" Width="859" HorizontalGridLinesBrush="#FF392B10" VerticalGridLinesBrush="#FF392B10"  CanUserResizeColumns="False" CanUserReorderColumns="False" CanUserSortColumns="False" IsReadOnly="True" Grid.ColumnSpan="2">
+                            <DataGrid.CellStyle>
+                                <Style TargetType="{x:Type DataGridCell}">
+                                    <Style.Triggers>
+                                        <Trigger Property="DataGridCell.IsSelected" Value="true">
+                                            <Setter Property="DataGridCell.Background" Value="#FFC79532"/>
+                                            <Setter Property="DataGridCell.Foreground" Value="White"/>
+                                            <Setter Property="DataGridCell.BorderBrush" Value="White"/>
+
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Trigger>
+
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.CellStyle>
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="DataGridColumnHeader">
+                                    <Style.Resources>
+                                        <Style x:Key="ColumnHeaderGripperStyle" TargetType="{x:Type Thumb}">
+                                            <Setter Property="Width" Value="8"/>
+                                            <Setter Property="Background" Value="Transparent"/>
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="{x:Type Thumb}">
+                                                        <Border Background="Red" Padding="{TemplateBinding Padding}" />
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Style>
+                                    </Style.Resources>
+
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate TargetType="{x:Type DataGridColumnHeader}">
+                                                <Grid Background="#FFC79532">
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="40"/>
+                                                    </Grid.RowDefinitions>
+                                                    <ContentPresenter Grid.Row="39" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                               SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"  VerticalAlignment="{TemplateBinding VerticalContentAlignment}" OpacityMask="Black"/>
+                                                    <Rectangle Grid.Row="1" Height="39" HorizontalAlignment="Stretch" Stroke="#FF392B10"  />
+                                                </Grid>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+
+                            </DataGrid.ColumnHeaderStyle>
+
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Binding="{Binding Numero}" Header="  Numéro" FontFamily="Lucida Fax" FontSize="14" Width="65" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTextColumn Binding="{Binding Date_Debut,StringFormat={}{0:dd/MM/yyyy}}" Header="     Date début" FontFamily="Lucida Fax" FontSize="14" Width="105" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Date_Fin,StringFormat={}{0:dd/MM/yyyy}}" Header="         Date Fin" FontFamily="Lucida Fax" FontSize="14"   Width="105" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Titre}" Header="                     Titre" FontFamily="Lucida Fax" Width="170" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Niveau_etude}" Header="     Niveau d'étude" FontFamily="Lucida Fax" Width="130" FontSize="14" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Matricule}" Header="   Matricule" FontFamily="Lucida Fax" FontSize="14" Width="90" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Nom}" Header="             Nom" FontFamily="Lucida Fax" FontSize="14" Width="95" FontWeight="Bold">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn Binding="{Binding Prenom}" Header="          Prénom" FontFamily="Lucida Fax" Width="98" FontSize="14" FontWeight="Bold" >
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                            <Setter Property="VerticalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                            </DataGrid.Columns>
+
+
+                        </DataGrid>
+
+                    </Grid>
+                </TabItem>
+
+
+
+            </TabControl>
+        </materialDesign:TransitioningContent>
+    </Grid>
+</UserControl>

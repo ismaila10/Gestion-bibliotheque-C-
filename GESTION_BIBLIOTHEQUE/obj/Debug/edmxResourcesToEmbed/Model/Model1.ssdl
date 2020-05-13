@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bibliothequeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="admins">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="prenom_admin" Type="varchar" MaxLength="50" />
+    <Property Name="nom_admin" Type="varchar" MaxLength="50" />
+    <Property Name="adresse_admin" Type="varchar" MaxLength="255" />
+    <Property Name="tel_admin" Type="varchar" MaxLength="50" />
+    <Property Name="email_admin" Type="varchar" MaxLength="255" />
+    <Property Name="statut" Type="int" />
+    <Property Name="login" Type="varchar" MaxLength="255" />
+    <Property Name="password" Type="varchar" MaxLength="50" />
+    <Property Name="delete" Type="int" />
+    <Property Name="type" Type="int" />
+  </EntityType>
+  <EntityType Name="auteur">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="prenom_auteur" Type="varchar" MaxLength="50" />
+    <Property Name="nom_auteur" Type="varchar" MaxLength="50" />
+    <Property Name="nationalite_auteur" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="categorie">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="libelle_categorie" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="client">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="prenom_client" Type="varchar" MaxLength="255" />
+    <Property Name="nom_client" Type="varchar" MaxLength="255" />
+    <Property Name="adresse_client" Type="varchar" MaxLength="255" />
+    <Property Name="tel_client" Type="varchar" MaxLength="50" />
+    <Property Name="email_client" Type="varchar" MaxLength="255" />
+    <Property Name="date_naissance" Type="datetime" />
+  </EntityType>
+  <EntityType Name="historique">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date_debut_cnx" Type="datetime" />
+    <Property Name="date_fin_cnx" Type="datetime" />
+    <Property Name="admin_id" Type="int" />
+  </EntityType>
+  <EntityType Name="inscription">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="matricule" Type="varchar" MaxLength="255" />
+    <Property Name="date_inscription" Type="datetime" />
+    <Property Name="date_echeance" Type="datetime" />
+    <Property Name="montant_ins" Type="int" />
+    <Property Name="statut" Type="int" />
+    <Property Name="client_id" Type="int" />
+    <Property Name="admin_id" Type="int" />
+    <Property Name="delet" Type="int" />
+  </EntityType>
+  <EntityType Name="livre">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="libelle_livre" Type="varchar" MaxLength="255" />
+    <Property Name="maison_edition" Type="varchar" MaxLength="255" />
+    <Property Name="qte_stock" Type="int" />
+    <Property Name="auteur_id" Type="int" />
+    <Property Name="categorie_id" Type="int" />
+    <Property Name="niveau_etude_id" Type="int" />
+    <Property Name="deletee" Type="int" />
+    <Property Name="qte_pret" Type="int" />
+  </EntityType>
+  <EntityType Name="niveau_etude">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="libelle_niveau_etude" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="pret">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date_debut" Type="datetime" />
+    <Property Name="date_rendu" Type="datetime" />
+    <Property Name="nbre_liv_emprunte" Type="int" />
+    <Property Name="statut_pret" Type="int" />
+    <Property Name="inscription_id" Type="int" />
+    <Property Name="livre_id" Type="int" />
+    <Property Name="date_fin" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_historique_admins">
+    <End Role="admins" Type="Self.admins" Multiplicity="0..1" />
+    <End Role="historique" Type="Self.historique" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="admins">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="historique">
+        <PropertyRef Name="admin_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_inscription_admins">
+    <End Role="admins" Type="Self.admins" Multiplicity="0..1" />
+    <End Role="inscription" Type="Self.inscription" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="admins">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="inscription">
+        <PropertyRef Name="admin_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_inscription_client">
+    <End Role="client" Type="Self.client" Multiplicity="0..1" />
+    <End Role="inscription" Type="Self.inscription" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="client">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="inscription">
+        <PropertyRef Name="client_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_livre_auteur">
+    <End Role="auteur" Type="Self.auteur" Multiplicity="0..1" />
+    <End Role="livre" Type="Self.livre" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="auteur">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="livre">
+        <PropertyRef Name="auteur_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_livre_categorie">
+    <End Role="categorie" Type="Self.categorie" Multiplicity="0..1" />
+    <End Role="livre" Type="Self.livre" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="categorie">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="livre">
+        <PropertyRef Name="categorie_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_livre_niveau_etude">
+    <End Role="niveau_etude" Type="Self.niveau_etude" Multiplicity="0..1" />
+    <End Role="livre" Type="Self.livre" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="niveau_etude">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="livre">
+        <PropertyRef Name="niveau_etude_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_pret_inscription">
+    <End Role="inscription" Type="Self.inscription" Multiplicity="0..1" />
+    <End Role="pret" Type="Self.pret" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="inscription">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="pret">
+        <PropertyRef Name="inscription_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_pret_livre">
+    <End Role="livre" Type="Self.livre" Multiplicity="0..1" />
+    <End Role="pret" Type="Self.pret" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="livre">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="pret">
+        <PropertyRef Name="livre_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="bibliothequeModelStoreContainer">
+    <EntitySet Name="admins" EntityType="Self.admins" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="auteur" EntityType="Self.auteur" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="categorie" EntityType="Self.categorie" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="client" EntityType="Self.client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="historique" EntityType="Self.historique" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="inscription" EntityType="Self.inscription" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="livre" EntityType="Self.livre" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="niveau_etude" EntityType="Self.niveau_etude" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="pret" EntityType="Self.pret" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_historique_admins" Association="Self.FK_historique_admins">
+      <End Role="admins" EntitySet="admins" />
+      <End Role="historique" EntitySet="historique" />
+    </AssociationSet>
+    <AssociationSet Name="FK_inscription_admins" Association="Self.FK_inscription_admins">
+      <End Role="admins" EntitySet="admins" />
+      <End Role="inscription" EntitySet="inscription" />
+    </AssociationSet>
+    <AssociationSet Name="FK_inscription_client" Association="Self.FK_inscription_client">
+      <End Role="client" EntitySet="client" />
+      <End Role="inscription" EntitySet="inscription" />
+    </AssociationSet>
+    <AssociationSet Name="FK_livre_auteur" Association="Self.FK_livre_auteur">
+      <End Role="auteur" EntitySet="auteur" />
+      <End Role="livre" EntitySet="livre" />
+    </AssociationSet>
+    <AssociationSet Name="FK_livre_categorie" Association="Self.FK_livre_categorie">
+      <End Role="categorie" EntitySet="categorie" />
+      <End Role="livre" EntitySet="livre" />
+    </AssociationSet>
+    <AssociationSet Name="FK_livre_niveau_etude" Association="Self.FK_livre_niveau_etude">
+      <End Role="niveau_etude" EntitySet="niveau_etude" />
+      <End Role="livre" EntitySet="livre" />
+    </AssociationSet>
+    <AssociationSet Name="FK_pret_inscription" Association="Self.FK_pret_inscription">
+      <End Role="inscription" EntitySet="inscription" />
+      <End Role="pret" EntitySet="pret" />
+    </AssociationSet>
+    <AssociationSet Name="FK_pret_livre" Association="Self.FK_pret_livre">
+      <End Role="livre" EntitySet="livre" />
+      <End Role="pret" EntitySet="pret" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

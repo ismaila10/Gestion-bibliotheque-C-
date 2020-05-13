@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bibliothequeModelStoreContainer" CdmEntityContainer="bibliothequeEntities">
+    <EntitySetMapping Name="admins">
+      <EntityTypeMapping TypeName="bibliothequeModel.admins">
+        <MappingFragment StoreEntitySet="admins">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="prenom_admin" ColumnName="prenom_admin" />
+          <ScalarProperty Name="nom_admin" ColumnName="nom_admin" />
+          <ScalarProperty Name="adresse_admin" ColumnName="adresse_admin" />
+          <ScalarProperty Name="tel_admin" ColumnName="tel_admin" />
+          <ScalarProperty Name="email_admin" ColumnName="email_admin" />
+          <ScalarProperty Name="statut" ColumnName="statut" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="delete" ColumnName="delete" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="auteur">
+      <EntityTypeMapping TypeName="bibliothequeModel.auteur">
+        <MappingFragment StoreEntitySet="auteur">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="prenom_auteur" ColumnName="prenom_auteur" />
+          <ScalarProperty Name="nom_auteur" ColumnName="nom_auteur" />
+          <ScalarProperty Name="nationalite_auteur" ColumnName="nationalite_auteur" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="categorie">
+      <EntityTypeMapping TypeName="bibliothequeModel.categorie">
+        <MappingFragment StoreEntitySet="categorie">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="libelle_categorie" ColumnName="libelle_categorie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="client">
+      <EntityTypeMapping TypeName="bibliothequeModel.client">
+        <MappingFragment StoreEntitySet="client">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="prenom_client" ColumnName="prenom_client" />
+          <ScalarProperty Name="nom_client" ColumnName="nom_client" />
+          <ScalarProperty Name="adresse_client" ColumnName="adresse_client" />
+          <ScalarProperty Name="tel_client" ColumnName="tel_client" />
+          <ScalarProperty Name="email_client" ColumnName="email_client" />
+          <ScalarProperty Name="date_naissance" ColumnName="date_naissance" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="historique">
+      <EntityTypeMapping TypeName="bibliothequeModel.historique">
+        <MappingFragment StoreEntitySet="historique">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="date_debut_cnx" ColumnName="date_debut_cnx" />
+          <ScalarProperty Name="date_fin_cnx" ColumnName="date_fin_cnx" />
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inscription">
+      <EntityTypeMapping TypeName="bibliothequeModel.inscription">
+        <MappingFragment StoreEntitySet="inscription">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="matricule" ColumnName="matricule" />
+          <ScalarProperty Name="date_inscription" ColumnName="date_inscription" />
+          <ScalarProperty Name="date_echeance" ColumnName="date_echeance" />
+          <ScalarProperty Name="montant_ins" ColumnName="montant_ins" />
+          <ScalarProperty Name="statut" ColumnName="statut" />
+          <ScalarProperty Name="client_id" ColumnName="client_id" />
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="delet" ColumnName="delet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="livre">
+      <EntityTypeMapping TypeName="bibliothequeModel.livre">
+        <MappingFragment StoreEntitySet="livre">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="libelle_livre" ColumnName="libelle_livre" />
+          <ScalarProperty Name="maison_edition" ColumnName="maison_edition" />
+          <ScalarProperty Name="qte_stock" ColumnName="qte_stock" />
+          <ScalarProperty Name="auteur_id" ColumnName="auteur_id" />
+          <ScalarProperty Name="categorie_id" ColumnName="categorie_id" />
+          <ScalarProperty Name="niveau_etude_id" ColumnName="niveau_etude_id" />
+          <ScalarProperty Name="deletee" ColumnName="deletee" />
+          <ScalarProperty Name="qte_pret" ColumnName="qte_pret" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="niveau_etude">
+      <EntityTypeMapping TypeName="bibliothequeModel.niveau_etude">
+        <MappingFragment StoreEntitySet="niveau_etude">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="libelle_niveau_etude" ColumnName="libelle_niveau_etude" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pret">
+      <EntityTypeMapping TypeName="bibliothequeModel.pret">
+        <MappingFragment StoreEntitySet="pret">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="date_debut" ColumnName="date_debut" />
+          <ScalarProperty Name="date_rendu" ColumnName="date_rendu" />
+          <ScalarProperty Name="nbre_liv_emprunte" ColumnName="nbre_liv_emprunte" />
+          <ScalarProperty Name="statut_pret" ColumnName="statut_pret" />
+          <ScalarProperty Name="inscription_id" ColumnName="inscription_id" />
+          <ScalarProperty Name="livre_id" ColumnName="livre_id" />
+          <ScalarProperty Name="date_fin" ColumnName="date_fin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
