@@ -28,8 +28,8 @@ namespace GESTION_BIBLIOTHEQUE.UI
             List<string> li = new List<string>();
 
             li.Add("Une bibliotheque c'est un des plus beau paysage du monde !");
-            li.Add("Un viellard qui meurt , c'est un bibliotheque qui s'effond !");
-            li.Add(" Gaston Bachelar : Un bibliotheque est un sanctuaire de la pensée pure");
+            li.Add("Un viellard qui meurt , c'est une bibliotheque qui s'effond !");
+            li.Add(" Gaston Bachelar : Une bibliotheque est un sanctuaire de la pensée pure");
 
             for (int i = 0; i < li.Count; i++)
             {

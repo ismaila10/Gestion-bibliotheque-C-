@@ -469,3 +469,36 @@ C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3
 C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
 C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
 C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\GESTION_BIBLIOTHEQUE - 2018-3\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csprojAssemblyReference.cache
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\App.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_Content.g.cs
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.cache
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE_MarkupCompile.lref
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\App.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\Menu.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\MainWindow.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Accueil.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_User.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Pret.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Livres.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Gestion_Inscription.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierUser.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Modifier_Livre.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\Nouveau_Livre.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\UI\ModifierInscription.baml
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.g.resources
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.Properties.Resources.resources
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.csproj.GenerateResource.cache
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.exe
+C:\Users\morbi\OneDrive\Bureau\THE NKD\BILIOTHEQUE\Ismaila-Gestion Bibliothèque\GESTION_BIBLIOTHEQUE\obj\Debug\GESTION_BIBLIOTHEQUE.pdb

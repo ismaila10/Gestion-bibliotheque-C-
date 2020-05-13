@@ -35,10 +35,5 @@ namespace GESTION_BIBLIOTHEQUE.Model
         public virtual niveau_etude niveau_etude { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<pret> pret { get; set; }
-        public override string ToString()
-        {
-            return libelle_livre;
-
-        }
     }
 }

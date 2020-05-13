@@ -11,7 +11,7 @@
             <Grid Background="#FF785614" Height="17"/>
             <Grid Margin="5">
                 <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Margin="504,0,310,0">
-                    <TextBlock Text=" GESTION BIBLIOTHEQUE DE BOINADJI" VerticalAlignment="Center" FontSize="20" FontFamily="Cooper Black" Margin="20,0,20,4" Foreground="#FF392B10" Height="26" Width="426"/>
+                    <TextBlock Text=" GESTION BIBLIOTHEQUE - Ishlolo" VerticalAlignment="Center" FontSize="20" FontFamily="Cooper Black" Margin="20,0,20,4" Foreground="#FF392B10" Height="26" Width="426"/>
 
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10 0">
@@ -37,7 +37,7 @@
             </materialDesign:TransitioningContent>
             <Button x:Name="deconnexion" Content="Déconnexion" HorizontalAlignment="Left" Margin="71,626,0,0" VerticalAlignment="Top" Width="159" Background="#FFE4CB9D" BorderBrush="#FF392B10" Height="41" Click="deconnexion_Click" FontFamily="Berlin Sans FB" FontSize="22" Foreground="#FF392B10"/>
 
-            <TextBlock HorizontalAlignment="Left" Margin="32,23,0,0" TextWrapping="Wrap" Text="GESTION BIBLIOTHEQUE BOINADJI" VerticalAlignment="Top" Height="107" Width="198" FontSize="24"   FontFamily="Showcard Gothic" Foreground="#FFF9F1F1"/>
+            <TextBlock HorizontalAlignment="Left" Margin="32,23,0,0" TextWrapping="Wrap" Text="GESTION BIBLIOTHEQUE Ishlolo" VerticalAlignment="Top" Height="107" Width="198" FontSize="24"   FontFamily="Showcard Gothic" Foreground="#FFF9F1F1"/>
             <ListView x:Name="ListViewMenu" Margin="0,130,2,169" Foreground="#FF392B10" FontFamily="Showcard Gothic" FontSize="17" SelectionChanged="ListViewMenu_SelectionChanged" SelectedIndex="0">
                 <ListViewItem Height="65">
                     <StackPanel Orientation="Horizontal">

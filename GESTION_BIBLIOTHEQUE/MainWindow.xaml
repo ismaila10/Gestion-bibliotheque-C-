@@ -26,13 +26,13 @@
                     <materialDesign:PackIcon Kind="Power" Height="38" Width="33" RenderTransformOrigin="1.793,0.78" Foreground="#FF392B10"/>
                 </Button>
             </StackPanel>
-            <TextBlock HorizontalAlignment="Left" Margin="222,38,0,-28" TextWrapping="Wrap" Text="GESTION BIBLIOTHEQUE DE BOINADJI" VerticalAlignment="Top" Height="101" Width="501" FontSize="22"   FontFamily="Showcard Gothic" Foreground="#FFF9F1F1"/>
+            <TextBlock HorizontalAlignment="Left" Margin="222,38,0,-28" TextWrapping="Wrap" Text="GESTION d'une BIBLIOTHEQUE" VerticalAlignment="Top" Height="101" Width="501" FontSize="22"   FontFamily="Showcard Gothic" Foreground="#FFF9F1F1"/>
 
 
         </Grid>
         <Button Content="connexion" HorizontalAlignment="Left" Margin="321,353,0,0" VerticalAlignment="Top" Width="146" Height="38" Click="Connexion" FontFamily="Berlin Sans FB" FontSize="24" Background="#FFC79532" RenderTransformOrigin="0.197,0.772" Foreground="#FF392B10" BorderBrush="#FF392B10"/>
         <Label Content="MERCI DE VOUS CONNECTER !" HorizontalAlignment="Left" Margin="303,149,0,0" VerticalAlignment="Top" Height="26" Width="179" FontFamily="Showcard Gothic"/>
-        <Label Content="Copyright Septembre 2018, New King of Developpement ( NKD )" HorizontalAlignment="Center" Margin="105,433,103,0" VerticalAlignment="Top" Height="38" Width="582" FontSize="18" FontFamily="Matura MT Script Capitals" Foreground="#FF392B10"/>
+        <Label Content="Copyright Septembre 2018, Ismila Diallo ( ISHLOLO )" HorizontalAlignment="Center" Margin="105,433,103,0" VerticalAlignment="Top" Height="38" Width="582" FontSize="18" FontFamily="Matura MT Script Capitals" Foreground="#FF392B10"/>
         <TextBox x:Name="login_txt"   HorizontalAlignment="Left" Height="35" Margin="360,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Background="#FFF7EDED" BorderBrush="#FF392B10" Foreground="#FF392B10" CaretBrush="#FFC79532" SelectionBrush="#FFC79532" FontSize="18" FontFamily="Lucida Fax" FontWeight="Bold"   />
         <PasswordBox x:Name="password_txt"  HorizontalAlignment="Left" Margin="361,275,0,0" VerticalAlignment="Top" Width="190" Background="#FFF7EDED" BorderBrush="#FF392B10" Foreground="#FF392B10" CaretBrush="#FFC79532" SelectionBrush="#FFC79532" FontSize="14" FontFamily="Lucida Fax" FontWeight="Bold" Height="31" PasswordChar="●"/>
         <Label Content="Login" HorizontalAlignment="Left" Margin="226,207,0,0" VerticalAlignment="Top" FontFamily="Lucida Fax" FontSize="16" FontWeight="Bold"/>

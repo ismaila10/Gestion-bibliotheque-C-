@@ -25,9 +25,5 @@ namespace GESTION_BIBLIOTHEQUE.Model
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<livre> livre { get; set; }
-        public override string ToString()
-        {
-            return libelle_niveau_etude;
-        }
     }
 }
